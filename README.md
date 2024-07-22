@@ -5,4 +5,5 @@
 *Awaken, awaken, break free from the shackles of the past.*  
 *Awaken, awaken, the silver bullet shining in the darkness.*  
 
-![riven-vs-yasuo](./img/riven-vs-yasuo.png "Which weighs more, Riven（CSS）? Your blade(BEM), or your past?")
+![A bowl of ice cream](./img/riven-vs-yasuo.png "This is a delicious bowl of ice cream.")
+
