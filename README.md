@@ -1,4 +1,4 @@
-# ESCSS - Another Wind blade?
+# ESCSS - Another... Wind blade
 ## The Intersection of Wind and Destiny
 >*Why have you drifted here, wanderer?*  
 *Your figure is shrouded in the silence of wailing.*  
@@ -6,5 +6,5 @@
 *Awaken, awaken, break free from the shackles of the past.*  
 *Awaken, awaken, the silver bullet shining in the darkness.*  
 
-***"Which weighs more, Riven(CSS)? Your blade(BEM), or your past?"***
 ![riven-vs-yasuo](./img/riven-vs-yasuo.png)  
+***"Which weighs more, Riven(CSS)? Your blade(BEM), or your past?"***
