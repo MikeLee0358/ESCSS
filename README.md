@@ -7,5 +7,5 @@
 
 <figure>
   <img src="./img/riven-vs-yasuo.png" alt="Elephant at sunset" />
-  <figcaption>"Which weighs more, Riven（CSS）? Your blade(BEM), or your past?"</figcaption>
+  <figcaption style="text-align: center">"Which weighs more, Riven(CSS)? Your blade(BEM), or your past?"</figcaption>
 </figure>
