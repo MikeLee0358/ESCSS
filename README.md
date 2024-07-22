@@ -5,7 +5,5 @@
 *Awaken, awaken, break free from the shackles of the past.*  
 *Awaken, awaken, the silver bullet shining in the darkness.*  
 
-<figure>
-  <img src="./img/riven-vs-yasuo.png" alt="Elephant at sunset" />
-  <figcaption style="text-align: center">"Which weighs more, Riven(CSS)? Your blade(BEM), or your past?"</figcaption>
-</figure>
+![riven-vs-yasuo](./img/riven-vs-yasuo.png)  
+*"Which weighs more, Riven(CSS)? Your blade(BEM), or your past?"*
