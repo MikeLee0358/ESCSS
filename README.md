@@ -5,5 +5,5 @@
 *Awaken, awaken, break free from the shackles of the past.*  
 *Awaken, awaken, the silver bullet shining in the darkness.*  
 
-![A bowl of ice cream](./img/riven-vs-yasuo.png "This is a delicious bowl of ice cream.")
+<img src="./img/riven-vs-yasuo.png" alt="A bowl of ice cream" title=" This is a delicious bowl of ice cream.">
 
