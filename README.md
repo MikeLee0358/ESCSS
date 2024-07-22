@@ -5,4 +5,4 @@
 *Awaken, awaken, break free from the shackles of the past.*  
 *Awaken, awaken, the silver bullet shining in the darkness.*  
 
-![riven-vs-yasuo](<./img/riven-vs-yasuo.png>"Which weighs more, Riven（CSS）? Your blade(BEM), or your past?")
+![riven-vs-yasuo](./img/riven-vs-yasuo.png "Which weighs more, Riven（CSS）? Your blade(BEM), or your past?")
